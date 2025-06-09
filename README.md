@@ -1,5 +1,6 @@
 # 🌦️ Weather API Microservice
 
+This is a solution for the Weather API project on [Roadmap.sh](https://roadmap.sh/projects/weather-api-wrapper-service) 
 This is a Spring Boot-based microservice developed by **Ankit Vishwakarma** that fetches real-time weather information for a given city using the [WeatherAPI](https://www.weatherapi.com/). The service includes:
 
 - 🔁 Integration with Redis for caching responses
@@ -51,4 +52,8 @@ GET /weather/v1/get?city=Delhi
 
   **Author**
   **Ankit Vishwakarma** 
+
+
+
+
 
