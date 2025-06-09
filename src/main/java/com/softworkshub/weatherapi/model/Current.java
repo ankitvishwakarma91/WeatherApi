@@ -36,5 +36,5 @@ public class Current {
     private double gust_mph;
     private double gust_kph;
 
-    // Getters and Setters
+
 }

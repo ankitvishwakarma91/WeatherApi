@@ -15,7 +15,7 @@ import org.springframework.web.client.RestTemplate;
 public class WeatherServiceImpl implements WeatherService {
 
 
-    private static final String API_KEY = "57db2b8a92e24622b55132508252005";
+    private static final String API_KEY = "your_api_key";
 
     // Base url ->  http://api.weatherapi.com/v1
 

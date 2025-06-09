@@ -11,5 +11,5 @@ public class Condition {
     private String icon;
     private int code;
 
-    // Getters and Setters
+
 }

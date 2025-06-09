@@ -15,5 +15,5 @@ public class Location {
     private long localtime_epoch;
     private String localtime;
 
-    // Getters and Setters
+
 }
